@@ -3,7 +3,7 @@ A python based web crawler for extracting all the reviews made by all the custom
 
 Currently it is hard coded to fetch only all the reviews made in laptop section only and store it as MongoDB database from were we can download it as JSON file.
 
-Flipkart is a e-commerce website the source code was rendered with javascript so i had to use selenium web so as to extract all the source code for a particular page.
+Flipkart is a e-commerce website the source code was rendered with javascript so i had to use selenium web-drive so as to extract all the source code for a particular page.
 
 ## Liabries used
 + Requests
