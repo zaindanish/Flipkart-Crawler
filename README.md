@@ -1,7 +1,7 @@
 # Flipkart-Crawler
 A python based web crawler for extracting all the reviews made by all the customes for a particular item. 
 
-Currently it is hard coded to fetch only all the reviews made in laptop section only and store it as MongoDB database from were we can download it as JSON file.
+Currently it is hard coded to fetch only all the reviews made in laptop section only and store it as MongoDB databasel.
 
 Flipkart is a e-commerce website the source code was rendered with javascript so i had to use selenium web-drive to extract all data.
 ## Liabries used
